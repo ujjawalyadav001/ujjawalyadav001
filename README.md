@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="centre" alt="coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ## 👨‍💻 About Me
 
@@ -109,18 +109,7 @@
 
 ---
 
-## 🚀 Featured Projects
 
-### 🌟 Project 1
-Short description of your best project.
-
-### 🌟 Project 2
-Short description of your second best project.
-
-### 🌟 Project 3
-Short description of your third best project.
-
----
 
 ## 💡 Quote Of The Day
 
