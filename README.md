@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Yadav</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | Problem Solver | Open Source Enthusiast
+🚀 Front End  Developer | Problem Solver | Open Source Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;DSA+Learner;Building+Projects+That+Matter;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Front+End+Developer;MERN+Stack+Enthusiast;Building+Projects+That+Matter;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -16,7 +16,7 @@
 
 - 🌱 Currently improving my **Data Structures & Algorithms**
 - 💻 Passionate about **Web Development & Software Engineering**
-- 🚀 Exploring **Backend Development & System Design**
+- 🚀 Exploring **Frontend Development & System Design**
 - 🤝 Open to **Collaboration & Open Source Contributions**
 - 📚 Always learning something new
 - ⚡ Fun Fact: *I turn coffee into code*
@@ -44,31 +44,31 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,java,js,python" />
+<img src="https://skillicons.dev/icons?i=cpp,c,js,python" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ---
